@@ -2,7 +2,7 @@
 
 This repository is for the final Capstone project of my IBM Data Science Professional Certification. IBM Watson Studio was used.
 
-<b><u>Scope:</u></b>
+<b>Scope:</b>
 Berlin and Hamburg are Germany's two largest cities. While Berlin is counting roughtly 3.8 million residents and Hamburg roughtly 1.8 million, both cities are quite different. Berlin is a mix of cultural, historical and artistic sights. It's an intriguing city that invites people of all backgrounds. Germany’s second largest city, Hamburg, is both typically German and unique in its own way. With a long maritime history, this North Sea port city has a distinct feel from anywhere else in the country and tons of cool things to see and do.
 
 Both cities beeing in the northern part of Germany, there is a great exchange between residents of both cities. This analysis is intended to show which areas of one city resemble those of the other: Berlin and Hamburg.
