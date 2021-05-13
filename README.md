@@ -8,8 +8,7 @@ Berlin and Hamburg are Germany's two largest cities. While Berlin is counting ro
 
 Both cities beeing in the northern part of Germany, there is a great exchange between residents of both cities. This analysis is intended to show which areas of one city resemble those of the other: Berlin and Hamburg.
 
-![Berlin_](https://user-images.githubusercontent.com/69117755/118125794-b92d9b80-b3f7-11eb-8808-bfde3ebdfd94.png)
-![hamburg](https://user-images.githubusercontent.com/69117755/118125790-b7fc6e80-b3f7-11eb-8a35-0383479ba4fe.png)
+
 
 <b>Data:</b>
 
